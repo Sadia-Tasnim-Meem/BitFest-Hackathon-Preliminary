@@ -1,6 +1,6 @@
 ## API Documentation
 
-### Ingredient Management
+### Mofa’s Kitchen Buddy
 
 #### Retrieve All Ingredients
 - **Route**: `/ingredients`  
